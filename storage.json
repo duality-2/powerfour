@@ -1,0 +1,23 @@
+{
+  "employees": [
+    {
+      "revenue": 200000,
+      "name": "Alice",
+      "experience": 3,
+      "salary": 90000,
+      "role": "developer",
+      "performance": 8,
+      "ssid": "emp001",
+      "suggestion": {
+        "action": "PROMOTE",
+        "confidence": 0.95,
+        "reason": "Heuristic: estimatedRevenue=200000, estimatedSalary=90000, perf=8, exp=3",
+        "recommended_change_percent": 10,
+        "estimatedSalary": 90000,
+        "using": "heuristic"
+      },
+      "timestamp": "2025-11-28T22:05:15.504Z"
+    }
+  ],
+  "actions": []
+}
